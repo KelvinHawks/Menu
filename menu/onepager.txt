@@ -1,0 +1,8 @@
+Delicacy Restaurant.
+
+This is a website where a restaurant is able to indicate what it offers through technology.
+This eliminates paper work and it is easy to use.
+I decided to come up with this project because most people nowadays own a smartphone and they are intellectual compared to sometimes back.
+The world is transitioning to technology and everything will be done through technology.
+It will be beneficial if it is adopted by many restaurants since the customers will have an easy time ordering their preferred meal.
+I used JavaScript for UI interface and php for a server side.

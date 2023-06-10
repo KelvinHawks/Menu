@@ -3,7 +3,7 @@ const menu = [{
     title: "buttermilk pancakes",
     category: "breakfast",
     price: 213,
-    img: "index.jpg",
+    img: "images/index.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },
@@ -12,7 +12,7 @@ const menu = [{
     title: "stair fair",
     category: "supper",
     price: 147,
-    img: "bugger1.jpg",
+    img: "images/bugger1.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },
@@ -21,7 +21,7 @@ const menu = [{
     title: "Havard health",
     category: "shakes",
     price: 159,
-    img: "bugger3.avif",
+    img: "images/bugger3.avif",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },
@@ -30,7 +30,7 @@ const menu = [{
     title: "Best Bee",
     category: "breakfast",
     price: 135,
-    img: "bugger10.jpg",
+    img: "images/bugger10.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },
@@ -39,7 +39,7 @@ const menu = [{
     title: "Traditional Mexican",
     category: "lunch",
     price: 120,
-    img: "bugger5.jpg",
+    img: "images/bugger5.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },{
@@ -47,7 +47,7 @@ const menu = [{
     title: "shutters tock",
     category: "shakes",
     price: 180,
-    img: "bugger6.jpg",
+    img: "images/bugger6.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },{
@@ -55,7 +55,7 @@ const menu = [{
     title: "Chaat masala",
     category: "breakfast",
     price: 160,
-    img: "bugger9.jpg",
+    img: "images/bugger9.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 },
@@ -64,7 +64,7 @@ const menu = [{
     title: "Filipino food",
     category: "shakes",
     price: 200,
-    img: "bugger8.jpg",
+    img: "images/bugger8.jpg",
     paragraph: `I'm baby woke milkshk wolf bitters live edge
                 blue bottle, hammock freegan copper mug whatever cold pressed`
 }
